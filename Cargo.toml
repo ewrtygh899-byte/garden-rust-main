@@ -1,0 +1,8 @@
+[package]
+name = "garden-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Lightweight game framework for windowing and rendering
+macroquad = "0.3"
